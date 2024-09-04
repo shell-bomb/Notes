@@ -7,5 +7,8 @@
    ◇ A security context, called an access token
       ▪ Used for security checks when accessing shared resources
 • On or more threads that execute code
-![](https://github.com/shell-bomb/Notes/blob/main/Windows-Internals/Images/Captura%20de%20pantalla%202024-09-04%20130102.png)
+
+!(https://github.com/shell-bomb/Notes/blob/main/Windows-Internals/Images/Image1.png)
+
+
 
