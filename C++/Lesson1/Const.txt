@@ -1,0 +1,33 @@
+La funcion const se usa para declarar variables que no pueden ser cambiadas,
+para proteger estos datos de ser cambiados
+
+// Programa en C++ para demostrar el concepto anterior
+#include <iostream>
+
+//Código del controlador
+int main()
+{
+	//const intx: CTE error
+	// x = 9; CTE error
+	const int y = 10;
+	cout << y;
+	
+	return 0;
+}
+
+Si se intenta inicializar la variable const sin asignarle un valor explícito, se genera un error en tiempo de compilación
+(CTE)
+
+Sintaxis:
+
+const tipo_datos* nombre_var;
+
+Sintaxis cuando el puntero const apunta a una variable const:
+
+const tipo_datos* const nombre_var;
+
+Sintaxis llamando a nombre de clase y objeto
+
+const Nombre_clase Nombre_objeto;
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
