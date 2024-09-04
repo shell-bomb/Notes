@@ -1,0 +1,13 @@
+Objects are runtime instances of static structures (object type)
+	Example: Process, mutex, event, desktop, file, thread
+
+Reside In system memory space
+
+Kernel code can obtain direct pointer to an object
+
+User mode code can only obtain a handle to an object
+	Shields user code from directly accessing an object
+
+Objects are reference counted
+
+The object manager is the entity responsible for creating, obtaining and otherwise manipulating objects
