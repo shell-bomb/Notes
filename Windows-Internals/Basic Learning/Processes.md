@@ -8,7 +8,7 @@
       ▪ Used for security checks when accessing shared resources
 • On or more threads that execute code
 
-!(https://github.com/shell-bomb/Notes/blob/main/Windows-Internals/Images/Image1.png)
+![](https://github.com/shell-bomb/Notes/blob/main/Windows-Internals/Images/Image1.png)
 
 
 
