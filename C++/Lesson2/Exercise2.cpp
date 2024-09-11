@@ -1,3 +1,5 @@
+#include <string>
+#include <iostream>
 #include <cstdlib>
 #include <ctime>
 
@@ -12,9 +14,10 @@ int main() {
     int option =  0;
     int score = 0;
     int death = randomize();
+    bool playing = true; 
 
 
-    while (true){
+    while (playing){
         std::cout << "\n Choose a option:";
         std::cout << "\n Option 1: eat JUST 1 apple:";
         std::cout << "\n Option 2: Don't EAT NO APPLE BIATCH";
@@ -45,3 +48,4 @@ int main() {
 
     return 0;
 }
+
