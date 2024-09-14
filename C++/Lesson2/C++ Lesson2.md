@@ -3,8 +3,8 @@ so if u eat 5 apples, u get 5 points
 if u eat 2 u get 2
 and if u get a posioned apple, u get none
 so u need to handle,
-inputs 
-outputs
-strings
-comparative logic
-random
+* inputs 
+* output
+* strings
+* comparative logic
+* random
