@@ -1,0 +1,3 @@
+En C++, un método es una función que está definida dentro de una clase o estructura y que opera sobre los datos miembros de esa clase o estructura. Los métodos permiten que los objetos de la clase interactúen con sus propios atributos y, en general, son el mecanismo principal para implementar el comportamiento de los objetos.
+
+Los métodos pueden realizar diversas tareas, como modificar los atributos del objeto, acceder a ellos, ejecutar operaciones o comportamientos específicos, y proporcionar una interfaz para interactuar con los datos encapsulados en el objeto.

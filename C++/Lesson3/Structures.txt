@@ -1,0 +1,1 @@
+En C++, las estructuras (struct) permiten agrupar diferentes tipos de datos bajo un mismo nombre. Son similares a las clases, pero con la diferencia de que los miembros de una estructura son, por defecto, públicos, mientras que en las clases son privados.

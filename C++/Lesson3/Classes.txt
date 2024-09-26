@@ -1,0 +1,12 @@
+Una clase en C++ es un tipo de dato definido por el usuario que actúa como un plano o molde para crear objetos. Una clase encapsula tanto datos (variables) como comportamientos (funciones o métodos) en una única entidad. Los objetos creados a partir de una clase pueden contener atributos (los datos) y operar sobre esos datos mediante los métodos definidos dentro de la clase.
+
+En C++, las clases son uno de los elementos clave para implementar la programación orientada a objetos (OOP), y permiten representar conceptos del mundo real en un programa de manera más intuitiva y estructurada.
+
+Características clave de una clase:
+Encapsulamiento: Agrupa datos y funciones que operan sobre esos datos en una única unidad. Además, puede controlar el acceso a los datos mediante especificadores de acceso como private, public, y protected.
+
+Abstracción: Oculta los detalles internos de la implementación y expone solo lo necesario mediante una interfaz pública (funciones públicas).
+
+Herencia: Permite que una clase herede características de otra clase, promoviendo la reutilización del código y la creación de jerarquías de clases.
+
+Polimorfismo: Habilidad de usar una interfaz común para diferentes tipos de objetos, permitiendo que diferentes clases respondan de manera distinta a la misma llamada de función.

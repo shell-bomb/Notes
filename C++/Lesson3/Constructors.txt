@@ -1,0 +1,11 @@
+En C++, un constructor es una función especial que se utiliza para inicializar objetos de una clase. Se llama automáticamente cuando se crea una instancia de la clase. El propósito principal de un constructor es inicializar los miembros de la clase con valores predeterminados o con valores proporcionados por el usuario al crear el objeto.
+
+Algunas características importantes de los constructores en C++ son:
+
+Mismo nombre que la clase: El constructor tiene el mismo nombre que la clase en la que está definido.
+
+No tiene tipo de retorno: A diferencia de otras funciones, los constructores no tienen un tipo de retorno, ni siquiera void.
+
+Automático: Se llama automáticamente cuando se crea un objeto de la clase.
+
+Puede ser sobrecargado: Se pueden definir varios constructores en la misma clase, siempre que tengan diferentes listas de parámetros (sobrecarga).

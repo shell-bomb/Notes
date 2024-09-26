@@ -1,0 +1,3 @@
+Un constructor sobrecargado (overloaded constructor) en C++ es cuando una clase tiene más de un constructor con diferentes listas de parámetros, lo que permite crear objetos de esa clase de distintas maneras. Los constructores sobrecargados deben diferenciarse por el número o tipo de argumentos que aceptan, ya que no pueden diferenciarse únicamente por el valor de sus parámetros.
+
+La sobrecarga de constructores permite que un objeto de una clase sea inicializado de diferentes formas, dependiendo de los argumentos que se pasen al constructor al momento de la creación del objeto.
