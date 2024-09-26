@@ -10,7 +10,7 @@ string greeting = “Hello”;
 What you can do with this:
 
 Code example: print “Hello, World” with cout, store it in string in variable greeting.
-
+```
 #include <iostream>
 #include <string>
 
@@ -19,7 +19,7 @@ int main() {
 	std::cout << greeting << std::endl;
 	return 0;
 }
-
+```
 * Easy Concatenation:
 You can concatenate other string strings.
 
