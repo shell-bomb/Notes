@@ -5,7 +5,7 @@ It allows capturing user input and storing it in a variable.
 Syntax: std:cin >> Variable
 
 Basic Example:
-
+```
 #include <iostream>
 
 int main() {
@@ -15,7 +15,7 @@ int main() {
 	std::cout << “Your age is: ” << age;
 	return 0;
 }
-
+```
 Cin features.
 
 1* Cin can read data of different types such as:
