@@ -1,0 +1,1 @@
+In C++, structures (structs) allow you to group different types of data under the same name. They are similar to classes, but with the difference that the members of a struct are, by default, public, while in classes they are private.
