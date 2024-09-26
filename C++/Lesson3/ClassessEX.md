@@ -1,7 +1,7 @@
 Simple Classes
 
 Create a class
-
+```c
 // Create a Car class with some attributes
 class Car {
   public:
@@ -29,3 +29,4 @@ int main () {
     return 0;
 
 }
+```
