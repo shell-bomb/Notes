@@ -10,5 +10,3 @@ Abstraction: Hides the internal details of the implementation and exposes only w
 Inheritance: Allows a class to inherit features from another class, promoting code reuse and the creation of class hierarchies.
 
 Polymorphism: Ability to use a common interface for different types of objects, allowing different classes to respond differently to the same function call.
-
-Translated with DeepL.com (free version)
