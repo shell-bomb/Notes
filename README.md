@@ -1,3 +1,3 @@
 # Notes
 
-En este github estan almacenados mis notas personales de escalada de privilegios y Active Directory
+In this section you will find notes about windows and linux privilege escalation, a bunch of resources of how to learn C++, C and ASM. And other stuff.
